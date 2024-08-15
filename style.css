@@ -1,0 +1,46 @@
+
+
+
+.info{
+    display: flex;
+}
+
+
+.quti2{
+    margin-top: 60px;
+   margin-left: 400px;
+   border: 1px solid black;
+   padding: 30px;
+}
+
+.quti2 input{
+    margin-top: 200px;
+}
+
+.ramka{
+   padding: 0px;
+   padding: 6px 120px;
+   border: 1px solid black;
+   background-color: rgb(83, 83, 255);
+   color: white;
+   text-decoration: none;
+   text-align: center;
+   border-radius: 10px;
+}
+
+.form{
+    border: 11px solid black;
+}
+
+.quti1 img{
+
+    margin: 20px 40px;
+
+}
+
+
+
+.forma{
+    border: 1px solid black;
+    padding: 10px;
+}
